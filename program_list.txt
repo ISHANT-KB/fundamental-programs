@@ -1,0 +1,124 @@
+
+
+🔢 CATEGORY 2: Number Programs (Core)
+
+
+Armstrong number
+Perfect number
+Strong number
+Sum of digits
+Product of digits
+Reverse a number
+Count digits
+
+📅 CATEGORY 3: Conditional Logic
+
+# Leap year check
+
+# Even or odd
+
+Positive / negative / zero
+
+Greatest of two numbers
+
+# Greatest of three numbers
+
+Divisibility check
+
+Vowel or consonant
+
+🔁 CATEGORY 4: Loop-Based Programs
+
+Multiplication table
+
+Power of a number
+
+Sum of first N natural numbers
+
+Print patterns (stars, numbers)
+
+Number pyramid
+
+Floyd’s triangle
+
+🧮 CATEGORY 5: Mathematical Logic
+
+GCD of two numbers
+
+LCM of two numbers
+
+HCF using Euclidean algorithm
+
+Check co-prime numbers
+
+Decimal to binary
+
+Binary to decimal
+
+📚 CATEGORY 6: Arrays
+
+Read and print array
+
+Sum of array elements
+
+Largest and smallest element
+
+Second largest element
+
+Reverse an array
+
+Linear search
+
+Binary search
+
+Sort array (Bubble sort)
+
+🧵 CATEGORY 7: Strings
+
+String length (without library)
+
+String copy
+
+String reverse
+
+Palindrome string
+
+Count vowels and consonants
+
+Count words in a string
+
+🧩 CATEGORY 8: Functions
+
+Function for factorial
+
+Function for prime check
+
+Function for Fibonacci
+
+Recursive factorial
+
+Recursive Fibonacci
+
+📂 CATEGORY 9: Structures (C-Specific)
+
+Student record using structure
+
+Array of structures
+
+Passing structure to function
+
+📄 CATEGORY 10: File Handling (Optional but Strong)
+
+Write to file
+
+Read from file
+
+Copy one file to another
+
+🔐 CATEGORY 11: Mini Logic Utilities (Bonus)
+
+Simple menu-driven program
+
+Number guessing game
+
+ATM simulation (basic)
